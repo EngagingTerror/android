@@ -1,0 +1,8 @@
+Wat heb ik gedaan?
+ik heb vandaag een de eeste stuk alvast gemaakt. waaronder de homescreen met een stijlvolle achtergrond en een menu waarbij je verschillende catogorieen kan kiezen.
+
+Wat ga ik doen?
+ik moet videos gaan kijken over hoe ik een achtergrond vast maak en buttons een destination geef
+
+Waar ben ik tegenaan gelopen?
+ik kan op dit moment nog niet buttons een destination geven en een achtergond plaatsen dat ook op- de emulator te zien is.
