@@ -1,0 +1,6 @@
+Wat heb ik gedaan?
+Ik heb de build your first android app in koitlin gemaakt, maar het is niet gegaan op de laatse stap. Nu zijn we bezig meteen nieuwe aap project.
+Wat ga ik doen?
+We zijn nu bezig met onze nieuwe app te maken. We gaan vandaag beginnen met de homescreen of start screen.
+Waar ben ik tegenaan gelopen?
+Bij de build your first app ben ik op de laaste app vast.
